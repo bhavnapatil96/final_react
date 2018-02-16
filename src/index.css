@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+span{
+    color: red;
+}
+.page{
+    display:inline-block;
+    border:solid black;
+    height:30px;
+    width:25px
+}
